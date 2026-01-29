@@ -1,0 +1,2 @@
+# AI-Driven-Vertical-Farming-An-Intelligent-System-For-Optimized-Growth-
+AI-Driven Vertical Farming is a revolutionary agricultural method that integrates Artificial Intelligence (AI) and the Internet of Things (IoT) to grow crops in vertically stacked layers. Unlike traditional farming, this system operates within a fully controlled indoor environment, removing the unpredictability of weather and geography.

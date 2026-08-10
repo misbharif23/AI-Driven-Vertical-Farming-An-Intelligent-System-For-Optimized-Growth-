@@ -1,6 +1,6 @@
 #  GrowBotOS — AI-Driven Vertical Farming System
 
-> ** 1st Place — COMSATS Career Expo 2025**
+>   1st Place — COMSATS Career Expo 2026 
 
 An end-to-end intelligent vertical farming prototype that combines distributed embedded sensing, a TabNet environmental prediction model, and a fully self-supervised visual plant-health diagnosis pipeline — all integrated through Firebase and a live React dashboard.
 
@@ -8,7 +8,7 @@ An end-to-end intelligent vertical farming prototype that combines distributed e
 
 ---
 
-## 📸 System Overview
+##  System Overview
 
 
 The system operates across four tightly integrated layers:
